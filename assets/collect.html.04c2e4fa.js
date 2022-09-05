@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4ac467d6","path":"/ru/guide/collect.html","title":"Collect","lang":"ru-RU","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Collect Iterator","slug":"collect-iterator","link":"#collect-iterator","children":[]}],"git":{"updatedTime":1623314123000},"filePathRelative":"ru/guide/collect.md"}');export{e as data};
